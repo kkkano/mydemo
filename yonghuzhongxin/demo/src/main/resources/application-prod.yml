@@ -1,0 +1,12 @@
+spring:
+
+
+  datasource:
+        driver-class-name: com.mysql.cj.jdbc.Driver
+        url: jdbc:mysql://81.71.152.67/user_center
+        username: wx
+        password: Wx5532102
+  session:
+    timeout: 86400
+server:
+    address: 0.0.0.0
